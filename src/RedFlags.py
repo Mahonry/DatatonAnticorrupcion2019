@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Miguel: Datomicos
 
-Red Flags
-"""
 
 import pandas as pd
 import json
